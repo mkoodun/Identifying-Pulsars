@@ -11,7 +11,7 @@ Developed **Decision Tree** classifiers to identify pulsar candidates in the [HT
 ## Dataset
 - Source: UCI Machine Learning Repository - HTRU2
 
-## Methodlogy
+## Methodology
 The full pipeline (data preprocessing, model training, evaluation, and improvements) is documented in the [Jupyter Notebook](https://github.com/mkoodun/Identifying-Pulsars/blob/main/Code.ipynb).
 
 ## Tech Stack
